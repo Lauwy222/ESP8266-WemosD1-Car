@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
-const char* ssid     = "RCwifiModule";
-const char* password = "PWSPROJECT13";
+const char* ssid     = "x"; //Enter network SSID 
+const char* password = "x"; //Enter network PASSWORD 
 
 WiFiServer server(80);
 
